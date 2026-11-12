@@ -6,11 +6,11 @@
 
 ## Equipe
 
-**Nome do time:** ____________________
+**Nome do time:** Bebeto & Romario
 
 | Nome | Matrícula | Usuário do GitHub |
-| --- | --- | --- |
-|  |  |  |
+| Francisco Monteiro | 2263851 | juniorabc11jm-bit |
+| Rágramo Alves | 2400901 | alvesragramo-stack |  
 |  |  |  |
 |  |  |  |
 |  |  |  |
